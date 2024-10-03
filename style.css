@@ -1,0 +1,32 @@
+h1 {
+    margin: 40px;
+    padding: 40px;
+    padding-left: 150px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 500px;
+    border: solid 6px blue;
+
+
+}
+
+.button {
+    padding: 20px 40px;
+    margin: 40px 60px;
+    border-radius: 700px;
+    font-weight: 700;
+    cursor: pointer;
+    border: solid 6px;
+    background-color: blueviolet;
+}
+
+.input-type-button {
+    color: red;
+    border: solid 2px;
+    margin: 20px 40px;
+    padding: 10px 20px;
+    border-radius: 500px;
+    background-color: black;
+    font-weight: 700;
+    cursor: pointer;
+}
